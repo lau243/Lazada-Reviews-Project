@@ -7,4 +7,4 @@ Lazada_Review_Project.ipynb
 Other files mentioned inside the above.
 
 Also included presentation file used for the project:
-Final Project - Upwiz - Lazada Data Review - Jashinta.pdf
+Lazada_ppt.pdf
